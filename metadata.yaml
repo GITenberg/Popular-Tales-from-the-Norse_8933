@@ -1,4 +1,5 @@
 _repo: Popular-Tales-from-the-Norse_8933
+_version: 0.1.0
 contributor:
   compilers:
   - agent_name: Moe, Jørgen Engebretsen
@@ -29,7 +30,12 @@ contributor:
     gutenberg_agent_id: '2936'
     url: http://www.gutenberg.org/2009/agents/2936
     wikipedia: http://en.wikipedia.org/wiki/George_Webbe_Dasent
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8933#Popular-Tales-from-the-Norse
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
